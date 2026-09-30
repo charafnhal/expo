@@ -2,6 +2,7 @@
   "name": "expo-checkbox",
   "version": "58.0.2",
   "description": "Basic boolean input for Android, iOS and web.",
+  "deprecated": "expo-checkbox is deprecated. Use the `Checkbox` component from `@expo/ui` instead. See https://docs.expo.dev/versions/latest/sdk/ui/universal/checkbox/",
   "keywords": [
     "expo",
     "expo-checkbox",
